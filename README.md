@@ -44,7 +44,7 @@ Kita dapat memasukkan angka untuk harga barang dan jumlah barang, lalu jika harg
 
 1. Login
 
-![Screenshot 2024-10-01 014113](https://github.com/user-attachments/assets/c98ad5f1-eca5-48fb-bbaa-182625dbf06a)
+![Screenshot 2024-10-01 021747](https://github.com/user-attachments/assets/b3964f87-62a3-41b1-889c-d6dfc9860c92)
 
 2. Memasukkan harga barang dan jumlah barang
    
