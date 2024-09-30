@@ -26,7 +26,17 @@ Gambar diatas menunjukkan bahwa login berhasil dan dapat melanjutkan untuk mengh
 
 2. Setelah berhasil login, user dapat memasukkan harga barang dan jumlah barang
 
-![Screenshot 2024-10-01 013355](https://github.com/user-attachments/assets/f073fcf7-b7ed-448d-a01b-4ec2b20cb887)
+Gambar dibawah menunjukkan jika mendapat diskon 25%
+
+![Screenshot 2024-10-01 020749](https://github.com/user-attachments/assets/ab617126-5a89-4b2c-8f6f-b9e18df4ee9d)
+
+Sedangkan gambar dibawah menunjukkan jika tidak mendapat diskon
+
+![Screenshot 2024-10-01 020756](https://github.com/user-attachments/assets/91a4502d-08c2-4e37-819a-c304fd35f255)
+
+Gambar dibawah menunjukkan hasil jika mendapat diskon dan tidak mendapat diskon, serta terdapat opsi untuk ingin lanjut menghitung atau tidak dengan mengetik "ya atau tidak"
+
+![Screenshot 2024-10-01 013355](https://github.com/user-attachments/assets/5eb0ab8a-e8fc-402f-a686-dc5084692162)
 
 Kita dapat memasukkan angka untuk harga barang dan jumlah barang, lalu jika harga nya diatas 250.000 maka akan mendapat diskon 25% jika tidak maka akan membayar harga normal. Lalu user juga dapat memilih ingin lanjut menghitung atau tidak dengan mengetikkan opsi "ya atau tidak" jika ya maka user dapat kembali menghitung harga belanjaan dan jika tidak maka akan selesai disitu.
 
