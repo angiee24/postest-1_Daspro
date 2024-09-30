@@ -1,5 +1,5 @@
 # Praktikum postest 1
-Angela Caroline Budiman (2409116008) Sistem Informasi A'2024#
+Angela Caroline Budiman (2409116008) Sistem Informasi A'2024
 
 # Flowchart
 ![Daspro postest 1 drawio](https://github.com/user-attachments/assets/df7e4756-33a6-4281-8937-a4c4badc0bd4)
@@ -51,6 +51,44 @@ sedangkan jika mengetik "tidak" maka tampilan akan seperti dibawah
 ![Screenshot 2024-10-01 014622](https://github.com/user-attachments/assets/90cbe6f1-030a-4ee6-a30f-55c4339aefb5)
 
 
+# penjelasan input
 
-
+1. Login
    
+a. Memasukkan nama
+
+![Screenshot 2024-10-01 015258](https://github.com/user-attachments/assets/a64ac038-714c-4554-99d1-1ec521f1ad35)
+
+b. Memasukkan NIM
+
+![Screenshot 2024-10-01 015303](https://github.com/user-attachments/assets/f81c1a0b-8203-488a-8bcf-f6c48dc32817)
+
+c. Memasukkan Password
+
+![Screenshot 2024-10-01 015310](https://github.com/user-attachments/assets/a0031fb8-6ed6-43a1-98a6-1fbb724e6b8b)
+
+d. Memasukkan captcha
+
+![Screenshot 2024-10-01 015319](https://github.com/user-attachments/assets/fd7496ce-b43c-4263-9ee1-b4bfa8eda350)
+
+2. Menghitung total harga belanjaan
+
+a. Memasukkan harga dan jumlah barang
+
+![Screenshot 2024-10-01 015330](https://github.com/user-attachments/assets/701e7725-65a6-4cf3-b331-7fcfefca465f)
+
+b. Menghitung Total Harga
+
+![Screenshot 2024-10-01 015350](https://github.com/user-attachments/assets/ce52aa7f-90ea-4140-9c74-27ee949f7dde)
+
+c. Menentukan Diskon
+
+![Screenshot 2024-10-01 015357](https://github.com/user-attachments/assets/d71c587b-6ce9-4ac2-8a1f-9e4a981d8061)
+
+d. Menampilkan harga akhir
+
+![Screenshot 2024-10-01 015404](https://github.com/user-attachments/assets/1e658278-1f62-46e7-9235-44e278dac299)
+
+e. Menentukan ingin mengulang menghitung atau tidak
+
+![Screenshot 2024-10-01 015416](https://github.com/user-attachments/assets/19cb6db3-30cf-40bc-8001-f1924d0411f9)
