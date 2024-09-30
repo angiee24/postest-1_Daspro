@@ -50,7 +50,7 @@ Kita dapat memasukkan angka untuk harga barang dan jumlah barang, lalu jika harg
    
 ![Screenshot 2024-10-01 014359](https://github.com/user-attachments/assets/f30d5008-d271-4ba4-abc9-e7a3771772a8)
 
-3. Menentukan ingin menghitung lagi atau tidak
+3. Menentukan ingin menghitung total belanjaan lagi atau tidak
    
 ![Screenshot 2024-10-01 014552](https://github.com/user-attachments/assets/9fda3ee2-ea42-4706-883c-5b89bfd83d14)
 
@@ -99,6 +99,6 @@ d. Menampilkan harga akhir
 
 ![Screenshot 2024-10-01 015404](https://github.com/user-attachments/assets/1e658278-1f62-46e7-9235-44e278dac299)
 
-e. Menentukan ingin mengulang menghitung atau tidak
+e. Menentukan ingin menghitung total belanjaan lagi atau tidak
 
 ![Screenshot 2024-10-01 015416](https://github.com/user-attachments/assets/19cb6db3-30cf-40bc-8001-f1924d0411f9)
